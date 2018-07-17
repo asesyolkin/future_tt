@@ -1,6 +1,6 @@
 'use strict';
 
-import UsersFromServer from 'asesyolkin.github.io/future_tt/small_base.js';
+import UsersFromServer from '/asesyolkin.github.io/future_tt/small_base.js';
 // import UsersFromServer from '/big_base.js';
 /*
 function getUsersFromServer() {
