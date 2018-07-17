@@ -134,7 +134,7 @@ class newTable {
   }
 }
 
-let table1 = new newTable(document.querySelector('#container'), getUsersFromServer());
+let table1 = new newTable(document.querySelector('#container'), UsersFromServer);
 
 class Filter {
   constructor(element) {
