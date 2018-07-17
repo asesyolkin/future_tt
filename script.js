@@ -1,8 +1,8 @@
 'use strict';
 
-// import UsersFromServer from '/small_base.js';
+import UsersFromServer from '/small_base.js';
 // import UsersFromServer from '/big_base.js';
-
+/*
 function getUsersFromServer() {
   let xhr = new XMLHttpRequest();
 
@@ -15,7 +15,7 @@ function getUsersFromServer() {
     return JSON.parse(xhr.responseText);
   }
 }
-
+*/
 class newTable {
   constructor(element, users) {
     this.element = element;
