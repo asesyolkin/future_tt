@@ -1,0 +1,42 @@
+main {
+  width: 1150px;
+  margin: 150px auto;
+}
+#filter input {
+  width: 300px;
+}
+.tableUser {
+  width: 1148px;
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin: 20px auto;
+}
+.tableUser tr {
+  width: 1148px;
+}
+.tableUser th {
+  border: 1px solid black;
+  max-width: 300px;
+  padding: 5px;
+  font-weight: bold;
+}
+.tableUser th:hover {
+  cursor: pointer;
+}
+.tableUser th span {
+  padding: 0px 7px;
+  margin-left: 5px;
+}
+.sortAZ {
+  background-image: url(img/sort_az.jpg);
+  background-repeat: no-repeat;
+}
+.sortZA {
+  background-image: url(img/sort_za.jpg);
+  background-repeat: no-repeat
+}
+.tableUser td {
+  border: 1px solid black;
+  max-width: 300px;
+  padding: 5px;
+}
