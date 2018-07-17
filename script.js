@@ -1,6 +1,6 @@
 'use strict';
 
-import UsersFromServer from './small_base.js';
+import UsersFromServer from '/small_base.js';
 // import UsersFromServer from '/big_base.js';
 /*
 function getUsersFromServer() {
